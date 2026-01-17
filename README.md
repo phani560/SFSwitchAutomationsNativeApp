@@ -4,7 +4,9 @@ Inbuilt Salesforce App to enable / disable Flows, Process Builders, Validation R
 
 Installation Steps:-
 
-1. Create a NAMED Credentials in your salesforce org in the below order (this is required to access tooling api in LWC components)
+1. Deploy SFSWitchLatest.zip by using workbench or VS Code.
+
+2. Create a NAMED Credentials in your salesforce org in the below order (this is required to access tooling api in LWC components)
 
      a. External Client App Manager
      
@@ -14,4 +16,4 @@ Installation Steps:-
      
      d. Named Credentials
      
-2. Mention that Named Credentials Label Name in "Tooling_API_Named_Credentials" Custom label that was deployed as a part of this package.
+3. Mention that Named Credentials Label Name in "Tooling_API_Named_Credentials" Custom label that was deployed as a part of this package.
