@@ -17,3 +17,5 @@ Installation Steps:-
      d. Named Credentials
      
 3. Mention that Named Credentials Label Name in "Tooling_API_Named_Credentials" Custom label that was deployed as a part of this package.
+
+4. Activate "Automation_Manager" lightning page to access LWC and then start using this tool.
