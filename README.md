@@ -30,15 +30,15 @@ Installation Steps:-
 <img width="1495" height="613" alt="image" src="https://github.com/user-attachments/assets/d9205afc-41d7-4283-855c-e9fc34a9d417" />
 
 
-# Bulk Enabling / Disabling Compoenents Progress 
+# Bulk Enabling / Disabling Components Progress 
 
 <img width="1493" height="352" alt="image" src="https://github.com/user-attachments/assets/7af76339-903e-4008-b5bd-f374d8dcc755" />
 
-# Toggle On Specific component
+# Toggle on specific component
 
 <img width="1472" height="686" alt="image" src="https://github.com/user-attachments/assets/a13a3969-705f-4884-a9b5-0606d1964e40" />
 
-# Toggle Off Sepcific Component
+# Toggle off specific Component
 
 <img width="1491" height="636" alt="image" src="https://github.com/user-attachments/assets/edb0d9b2-b37a-4eb1-942b-c443db8fbef4" />
 
